@@ -18,7 +18,6 @@ import routeConfiguration from './routeConfiguration';
 import Routes from './Routes';
 import config from './config';
 
-
 // Flex template application uses English translations as default.
 import defaultMessages from './translations/en.json';
 
